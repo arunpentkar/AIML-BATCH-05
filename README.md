@@ -1,10 +1,10 @@
 # AIML-BATCH-05
-[ https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignment_1.ipynb ]
+Assignment-1[ https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignment_1.ipynb ]
 <br>
-[https://github.com/arunpentkar/AIML-BATCH-05/blob/main/ASSIGNMENT_2.ipynb]
+Assignment-2[https://github.com/arunpentkar/AIML-BATCH-05/blob/main/ASSIGNMENT_2.ipynb]
 <br>
-[https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignmnet3.ipynb]
+Assignment-3[https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignmnet3.ipynb]
 <br>
-[https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignment_4.ipynb]
+Assignment-4[https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignment_4.ipynb]
 <br>
-[https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignment_05.ipynb]
+Assignment-5[https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignment_05.ipynb]
