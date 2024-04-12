@@ -8,3 +8,5 @@ Assignment-3  [https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignmnet
 Assignment-4  [https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignment_4.ipynb]
 <br>
 Assignment-5  [https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignment_05.ipynb]
+<br>
+Assignment-6  [https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignment_06.ipynb]
