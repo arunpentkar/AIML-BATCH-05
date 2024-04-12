@@ -10,3 +10,5 @@ Assignment-4  [https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignment
 Assignment-5  [https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignment_05.ipynb]
 <br>
 Assignment-6  [https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignment_06.ipynb]
+<br>
+Assignment-7  [https://github.com/arunpentkar/AIML-BATCH-05/blob/main/Assignment_07.ipynb]
